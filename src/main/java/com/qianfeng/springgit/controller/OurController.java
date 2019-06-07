@@ -16,7 +16,7 @@ public class OurController {
     @RequestMapping("hello")
     @ResponseBody
     public String hello(){
-        System.out.println("hello,github111");
+        System.out.println("hello,githdrthdrtb");
         return "hello";
     }
 }
